@@ -3,7 +3,7 @@
 ## Project Strucutre
 Data Science as a Software similar to (https://github.com/drivendata/cookiecutter-data-science)
 
-## Frameworks used:
+## Some Frameworks:
 Preprocessing, Pandas: https://github.com/pandas-dev/pandas  
 Machine Learning, Scikit-learn: https://github.com/scikit-learn/scikit-learn  
 Auto Machine Learning, TPOT: https://github.com/EpistasisLab/tpot  
