@@ -22,6 +22,6 @@ Time Series Feature Extraction, TSFRESH: https://github.com/blue-yonder/tsfresh
 ![](gfx/data_type_portability.PNG?raw=true)
 
 
-###################################################
+###################################################  
 30.04.19: Currently looking for a job, fully remote or with 3 days home office.
 LinkedIn: https://www.linkedin.com/in/andreas-braun-6796ba12a/.
