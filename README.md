@@ -3,10 +3,11 @@
 ## Project Strucutre
 Data Science as a Software similar to (https://github.com/drivendata/cookiecutter-data-science)
 
-![data_types](gfx/data_processing.png)
+## Data Processing Pipeline
+![](gfx/data_processing.PNG?raw=true)
 
-![manufacturing_process](gfx/manufacturing_process.png)
+## Schematic Manufacturing Process
+![](gfx/manufacturing_process.PNG?raw=true)
 
-![data_processing](gfx/data_type_portability.png)
-
-
+## Data Type Portability
+![](gfx/data_type_portability.PNG?raw=true)
