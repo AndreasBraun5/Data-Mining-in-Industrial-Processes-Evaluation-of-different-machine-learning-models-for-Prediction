@@ -3,5 +3,5 @@
 ## Project Strucutre
 Data Science as a Software similar to (https://github.com/drivendata/cookiecutter-data-science)
 
-![GitHub Logo](/gfx/data_types.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](/gfx/data_types.png)
+
