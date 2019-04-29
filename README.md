@@ -4,10 +4,10 @@
 Data Science as a Software similar to (https://github.com/drivendata/cookiecutter-data-science)
 
 ## Frameworks used:
-Preprocessing, Pandas: https://github.com/pandas-dev/pandas
-Machine Learning, Scikit-learn: https://github.com/scikit-learn/scikit-learn
-Auto Machine Learning, TPOT: https://github.com/EpistasisLab/tpot
-Time Series Feature Extraction, TSFRESH: https://github.com/blue-yonder/tsfresh
+Preprocessing, Pandas: https://github.com/pandas-dev/pandas  
+Machine Learning, Scikit-learn: https://github.com/scikit-learn/scikit-learn  
+Auto Machine Learning, TPOT: https://github.com/EpistasisLab/tpot  
+Time Series Feature Extraction, TSFRESH: https://github.com/blue-yonder/tsfresh  
 
 ## Final Result
 ![](gfx/result.PNG?raw=true)
