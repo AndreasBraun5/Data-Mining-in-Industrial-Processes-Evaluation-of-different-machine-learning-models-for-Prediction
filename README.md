@@ -1,7 +1,6 @@
 # Data Mining in Industrial Processes: Evaluation of different machine learning models for product quality prediction
 
 #######################################################################################
-30.04.19: Currently looking for a job, fully remote or with 3 days home office.  
 LinkedIn: https://www.linkedin.com/in/andreas-braun-6796ba12a/.
 #######################################################################################
 
