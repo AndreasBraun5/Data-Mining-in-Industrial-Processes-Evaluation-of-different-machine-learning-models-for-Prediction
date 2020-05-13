@@ -19,8 +19,5 @@ Time Series Feature Extraction, TSFRESH: https://github.com/blue-yonder/tsfresh
 ## Data Processing Pipeline
 ![](gfx/data_processing.PNG?raw=true)
 
-## Schematic Manufacturing Process
-![](gfx/manufacturing_process.PNG?raw=true)
-
 ## Data Type Portability
 ![](gfx/data_type_portability.PNG?raw=true)
